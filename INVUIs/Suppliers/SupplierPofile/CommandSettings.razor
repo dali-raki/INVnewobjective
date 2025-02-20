@@ -35,11 +35,11 @@
                 <tbody>
                 @foreach (var a in purchase)
                 {
-                    <tr style="cursor: pointer;" onmouseover="this.style.backgroundColor='#091f33'" onmouseout="this.style.backgroundColor=''"
-                        @onclick="() => navigateToPurchase(a.ID)">
+
+                        <tr @onclick="() => navigateToPurchase(a.ID)">
                         <td>@a.Number</td>
                         <td>@a.Date</td>
-                        <td>@a.Status</td>
+                        <td><Status status="@a.Status" /></td>
                     </tr>
 
                 }

@@ -1,3 +1,9 @@
+:root {
+    --primary-color:#257180;
+    --primary-color-light:#2571801a;
+    --secondary-color:#FD8B51;
+    --background-color:#F2E5BF;
+}
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -53,4 +59,75 @@ h1:focus {
 
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
+}
+
+
+
+.titels-page {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.titel-primary h2 {
+    font-size: 1.875rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    text-transform: uppercase;
+    margin-bottom: .5rem;
+}
+
+.titel-secondary h4 {
+    font-weight: 600;
+    font-size: 1.4rem;
+    color: rgb(75 85 99 / 1);
+}
+
+
+
+/* General Button Styles */
+.btn-custom {
+    font-size: 1rem;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Submit Button - Primary */
+.btn-submit {
+    background-color: #257180;
+    color: white;
+}
+
+    .btn-submit:hover {
+        background-color: #1f5e68;
+    }
+
+/* Cancel Button - Neutral */
+.btn-cancel {
+    background-color: #F2E5BF;
+    color: #257180;
+    border: 1px solid #257180;
+}
+
+    .btn-cancel:hover {
+        background-color: #e4d7ae;
+    }
+
+/* Delete Button - Warning */
+.btn-delete {
+    background-color: #FD8B51;
+    color: white;
+}
+
+    .btn-delete:hover {
+        background-color: #e07a45;
+    }
+
+.footer-form {
+    display: flex;
+    justify-content: flex-end;
 }

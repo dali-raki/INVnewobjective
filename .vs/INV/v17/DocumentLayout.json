@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA4533B-949D-4985-96A2-627900575F4F}|INVUIs\\INVUIs.csproj|c:\\users\\dali_raki\\source\\repos\\invnewobjective\\invuis\\suppliers\\supplierpofile\\commandsettings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA4533B-949D-4985-96A2-627900575F4F}|INVUIs\\INVUIs.csproj|solutionrelative:invuis\\suppliers\\supplierpofile\\commandsettings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA4533B-949D-4985-96A2-627900575F4F}|INVUIs\\INVUIs.csproj|c:\\users\\dali_raki\\source\\repos\\invnewobjective\\invuis\\components\\status\\status.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA4533B-949D-4985-96A2-627900575F4F}|INVUIs\\INVUIs.csproj|solutionrelative:invuis\\components\\status\\status.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6905ACD5-6E5D-44C1-937C-3F57DD6E1ED8}|INV.Domain\\INV.Domain.csproj|c:\\users\\dali_raki\\source\\repos\\invnewobjective\\inv.domain\\entities\\purchaseorders\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6905ACD5-6E5D-44C1-937C-3F57DD6E1ED8}|INV.Domain\\INV.Domain.csproj|solutionrelative:inv.domain\\entities\\purchaseorders\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA4533B-949D-4985-96A2-627900575F4F}|INVUIs\\INVUIs.csproj|c:\\users\\dali_raki\\source\\repos\\invnewobjective\\invuis\\components\\status\\status.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2CA4533B-949D-4985-96A2-627900575F4F}|INVUIs\\INVUIs.csproj|solutionrelative:invuis\\components\\status\\status.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA4533B-949D-4985-96A2-627900575F4F}|INVUIs\\INVUIs.csproj|c:\\users\\dali_raki\\source\\repos\\invnewobjective\\invuis\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA4533B-949D-4985-96A2-627900575F4F}|INVUIs\\INVUIs.csproj|solutionrelative:invuis\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA4533B-949D-4985-96A2-627900575F4F}|INVUIs\\INVUIs.csproj|c:\\users\\dali_raki\\source\\repos\\invnewobjective\\invuis\\components\\status\\status.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA4533B-949D-4985-96A2-627900575F4F}|INVUIs\\INVUIs.csproj|solutionrelative:invuis\\components\\status\\status.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A70422-573D-4D8A-81A1-9923CD3A5846}|Web\\Web.csproj|c:\\users\\dali_raki\\source\\repos\\invnewobjective\\web\\components\\pages\\suppliers\\profilepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4A70422-573D-4D8A-81A1-9923CD3A5846}|Web\\Web.csproj|solutionrelative:web\\components\\pages\\suppliers\\profilepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A70422-573D-4D8A-81A1-9923CD3A5846}|Web\\Web.csproj|c:\\users\\dali_raki\\source\\repos\\invnewobjective\\web\\wwwroot\\dcss\\supplier.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4A70422-573D-4D8A-81A1-9923CD3A5846}|Web\\Web.csproj|solutionrelative:web\\wwwroot\\dcss\\supplier.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A70422-573D-4D8A-81A1-9923CD3A5846}|Web\\Web.csproj|c:\\users\\dali_raki\\source\\repos\\invnewobjective\\web\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4A70422-573D-4D8A-81A1-9923CD3A5846}|Web\\Web.csproj|solutionrelative:web\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\INV.Domain\\Entities\\PurchaseOrders\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "INV.Domain\\Entities\\PurchaseOrders\\PurchaseOrder.cs",
+              "ToolTip": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\INV.Domain\\Entities\\PurchaseOrders\\PurchaseOrder.cs",
+              "RelativeToolTip": "INV.Domain\\Entities\\PurchaseOrders\\PurchaseOrder.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAywC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:02:55.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommandSettings.razor",
+              "DocumentMoniker": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\INVUIs\\Suppliers\\SupplierPofile\\CommandSettings.razor",
+              "RelativeDocumentMoniker": "INVUIs\\Suppliers\\SupplierPofile\\CommandSettings.razor",
+              "ToolTip": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\INVUIs\\Suppliers\\SupplierPofile\\CommandSettings.razor",
+              "RelativeToolTip": "INVUIs\\Suppliers\\SupplierPofile\\CommandSettings.razor",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T20:56:09.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\INVUIs\\_Imports.razor",
+              "RelativeDocumentMoniker": "INVUIs\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\INVUIs\\_Imports.razor",
+              "RelativeToolTip": "INVUIs\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T21:01:55.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Status.razor.css",
+              "DocumentMoniker": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\INVUIs\\Components\\Status\\Status.razor.css",
+              "RelativeDocumentMoniker": "INVUIs\\Components\\Status\\Status.razor.css",
+              "ToolTip": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\INVUIs\\Components\\Status\\Status.razor.css",
+              "RelativeToolTip": "INVUIs\\Components\\Status\\Status.razor.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T21:01:01.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Status.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\INVUIs\\Components\\Status\\Status.razor.cs",
+              "RelativeDocumentMoniker": "INVUIs\\Components\\Status\\Status.razor.cs",
+              "ToolTip": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\INVUIs\\Components\\Status\\Status.razor.cs",
+              "RelativeToolTip": "INVUIs\\Components\\Status\\Status.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:00:50.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Status.razor",
+              "DocumentMoniker": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\INVUIs\\Components\\Status\\Status.razor",
+              "RelativeDocumentMoniker": "INVUIs\\Components\\Status\\Status.razor",
+              "ToolTip": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\INVUIs\\Components\\Status\\Status.razor",
+              "RelativeToolTip": "INVUIs\\Components\\Status\\Status.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T21:00:29.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\Web\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "Web\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\Web\\wwwroot\\app.css",
+              "RelativeToolTip": "Web\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T20:51:24.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Supplier.css",
+              "DocumentMoniker": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\Web\\wwwroot\\DCSS\\Supplier.css",
+              "RelativeDocumentMoniker": "Web\\wwwroot\\DCSS\\Supplier.css",
+              "ToolTip": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\Web\\wwwroot\\DCSS\\Supplier.css",
+              "RelativeToolTip": "Web\\wwwroot\\DCSS\\Supplier.css",
+              "ViewState": "AgIAACEBAAAAAAAAAAAgwDABAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T20:45:03.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfilePage.razor",
+              "DocumentMoniker": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\Web\\Components\\Pages\\Suppliers\\ProfilePage.razor",
+              "RelativeDocumentMoniker": "Web\\Components\\Pages\\Suppliers\\ProfilePage.razor",
+              "ToolTip": "C:\\Users\\Dali_Raki\\source\\repos\\INVnewobjective\\Web\\Components\\Pages\\Suppliers\\ProfilePage.razor",
+              "RelativeToolTip": "Web\\Components\\Pages\\Suppliers\\ProfilePage.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T20:43:52.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1138,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
