@@ -9,89 +9,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = INVUIs
 build_property.RootNamespace = INVUIs
-build_property.ProjectDir = C:\Users\Dali_Raki\Source\Repos\INVnewobjective\INVUIs\
+build_property.ProjectDir = C:\Users\Dali_Raki\Source\Repos\INVnewobjectivell\INVUIs\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Dali_Raki\Source\Repos\INVnewobjective\INVUIs
+build_property.MSBuildProjectDirectory = C:\Users\Dali_Raki\Source\Repos\INVnewobjectivell\INVUIs
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/BonCommande/DetailsCommande.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/BonCommande/DetailsCommande.razor]
 build_metadata.AdditionalFiles.TargetPath = Qm9uQ29tbWFuZGVcRGV0YWlsc0NvbW1hbmRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/BonCommande/ProductsCommande.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/BonCommande/ProductsCommande.razor]
 build_metadata.AdditionalFiles.TargetPath = Qm9uQ29tbWFuZGVcUHJvZHVjdHNDb21tYW5kZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/BonCommande/SupplierCommande.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/BonCommande/SupplierCommande.razor]
 build_metadata.AdditionalFiles.TargetPath = Qm9uQ29tbWFuZGVcU3VwcGxpZXJDb21tYW5kZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Orders/PurchaseOrderDetails/ProductDetails.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Orders/PurchaseOrderDetails/ProductDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = T3JkZXJzXFB1cmNoYXNlT3JkZXJEZXRhaWxzXFByb2R1Y3REZXRhaWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Orders/PurchaseOrderDetails/PurchaseDetails.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Orders/PurchaseOrderDetails/PurchaseDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = T3JkZXJzXFB1cmNoYXNlT3JkZXJEZXRhaWxzXFB1cmNoYXNlRGV0YWlscy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Orders/PurchaseOrderDetails/PurchaseOrderProfile.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Orders/PurchaseOrderDetails/PurchaseOrderProfile.razor]
 build_metadata.AdditionalFiles.TargetPath = T3JkZXJzXFB1cmNoYXNlT3JkZXJEZXRhaWxzXFB1cmNoYXNlT3JkZXJQcm9maWxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Orders/PurchaseOrderDetails/PurchaseSidebar.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Orders/PurchaseOrderDetails/PurchaseOrderValirdation.razor]
+build_metadata.AdditionalFiles.TargetPath = T3JkZXJzXFB1cmNoYXNlT3JkZXJEZXRhaWxzXFB1cmNoYXNlT3JkZXJWYWxpcmRhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Orders/PurchaseOrderDetails/PurchaseSidebar.razor]
 build_metadata.AdditionalFiles.TargetPath = T3JkZXJzXFB1cmNoYXNlT3JkZXJEZXRhaWxzXFB1cmNoYXNlU2lkZWJhci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Orders/PurchaseOrderList.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Orders/PurchaseOrderList.razor]
 build_metadata.AdditionalFiles.TargetPath = T3JkZXJzXFB1cmNoYXNlT3JkZXJMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Products/ProductUpdate.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Products/ProductUpdate.razor]
 build_metadata.AdditionalFiles.TargetPath = UHJvZHVjdHNcUHJvZHVjdFVwZGF0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Suppliers/SupplierForm.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Suppliers/SupplierForm.razor]
 build_metadata.AdditionalFiles.TargetPath = U3VwcGxpZXJzXFN1cHBsaWVyRm9ybS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Suppliers/SupplierList.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Suppliers/SupplierList.razor]
 build_metadata.AdditionalFiles.TargetPath = U3VwcGxpZXJzXFN1cHBsaWVyTGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Suppliers/SupplierPofile/CommandSettings.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Suppliers/SupplierPofile/CommandSettings.razor]
 build_metadata.AdditionalFiles.TargetPath = U3VwcGxpZXJzXFN1cHBsaWVyUG9maWxlXENvbW1hbmRTZXR0aW5ncy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Suppliers/SupplierPofile/EditProfileForm.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Suppliers/SupplierPofile/EditProfileForm.razor]
 build_metadata.AdditionalFiles.TargetPath = U3VwcGxpZXJzXFN1cHBsaWVyUG9maWxlXEVkaXRQcm9maWxlRm9ybS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Suppliers/SupplierPofile/ProfileOverview.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Suppliers/SupplierPofile/ProfileOverview.razor]
 build_metadata.AdditionalFiles.TargetPath = U3VwcGxpZXJzXFN1cHBsaWVyUG9maWxlXFByb2ZpbGVPdmVydmlldy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Suppliers/SupplierPofile/ReceptionComponent.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Suppliers/SupplierPofile/ReceptionComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = U3VwcGxpZXJzXFN1cHBsaWVyUG9maWxlXFJlY2VwdGlvbkNvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Suppliers/SupplierPofile/SupplierProfileSidebar.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Suppliers/SupplierPofile/SupplierProfileSidebar.razor]
 build_metadata.AdditionalFiles.TargetPath = U3VwcGxpZXJzXFN1cHBsaWVyUG9maWxlXFN1cHBsaWVyUHJvZmlsZVNpZGViYXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Suppliers/SupplierSelector.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Suppliers/SupplierSelector.razor]
 build_metadata.AdditionalFiles.TargetPath = U3VwcGxpZXJzXFN1cHBsaWVyU2VsZWN0b3IucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/_Imports.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dali_Raki/Source/Repos/INVnewobjective/INVUIs/Components/Status/Status.razor]
+[C:/Users/Dali_Raki/Source/Repos/INVnewobjectivell/INVUIs/Components/Status/Status.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdGF0dXNcU3RhdHVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-8s2dm92tkz

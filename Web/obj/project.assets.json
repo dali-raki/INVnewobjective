@@ -3159,11 +3159,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\Web\\Web.csproj",
+      "projectPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\Dali_Raki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\Web\\obj\\",
+      "outputPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3184,20 +3184,20 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\INV.App\\INV.App.csproj": {
-              "projectPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\INV.App\\INV.App.csproj"
+            "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\INV.App\\INV.App.csproj": {
+              "projectPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\INV.App\\INV.App.csproj"
             },
-            "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\INV.Domain\\INV.Domain.csproj": {
-              "projectPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\INV.Domain\\INV.Domain.csproj"
+            "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\INV.Domain\\INV.Domain.csproj": {
+              "projectPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\INV.Domain\\INV.Domain.csproj"
             },
-            "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\INV.Implementation\\INV.Implementation.csproj": {
-              "projectPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\INV.Implementation\\INV.Implementation.csproj"
+            "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\INV.Implementation\\INV.Implementation.csproj": {
+              "projectPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\INV.Implementation\\INV.Implementation.csproj"
             },
-            "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\INV.Infrastructure\\INV.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\INV.Infrastructure\\INV.Infrastructure.csproj"
+            "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\INV.Infrastructure\\INV.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\INV.Infrastructure\\INV.Infrastructure.csproj"
             },
-            "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\INVUIs\\INVUIs.csproj": {
-              "projectPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\INVUIs\\INVUIs.csproj"
+            "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\INVUIs\\INVUIs.csproj": {
+              "projectPath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\INVUIs\\INVUIs.csproj"
             }
           }
         }

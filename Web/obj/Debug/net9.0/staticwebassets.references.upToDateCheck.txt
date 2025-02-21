@@ -22,3 +22,9 @@ C:\Users\Dali_Raki\Source\Repos\INVnewobjective\INVUIs\obj\Debug\net9.0\staticwe
 C:\Users\Dali_Raki\Source\Repos\INVnewobjective\INVUIs\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Dali_Raki\Source\Repos\INVnewobjective\INVUIs\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Dali_Raki\Source\Repos\INVnewobjective\INVUIs\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dali_Raki\Source\Repos\INVnewobjectivell\INVUIs\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dali_Raki\Source\Repos\INVnewobjectivell\INVUIs\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dali_Raki\Source\Repos\INVnewobjectivell\INVUIs\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dali_Raki\Source\Repos\INVnewobjectivell\INVUIs\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dali_Raki\Source\Repos\INVnewobjectivell\INVUIs\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dali_Raki\Source\Repos\INVnewobjectivell\INVUIs\obj\Debug\net9.0\staticwebassets.build.json

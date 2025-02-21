@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B61G7bh0W6A=",
+  "dgSpecHash": "I9zfGn9Md5Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjective\\INV.Implementation\\INV.Implementation.csproj",
+  "projectFilePath": "C:\\Users\\Dali_Raki\\Source\\Repos\\INVnewobjectivell\\INV.Implementation\\INV.Implementation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dali_Raki\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Dali_Raki\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

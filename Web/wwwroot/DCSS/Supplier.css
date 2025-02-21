@@ -244,6 +244,7 @@
 }
 
 .container-supplier {
+    border-radius:7px;
     margin-bottom: 2rem;
     display: flex;
     justify-content: space-between;
@@ -304,3 +305,7 @@ font-weight:600;
     .nav-pills .nav-link:hover {
         color: var(--secondary-color);
     }
+
+.btn-pos-supplier i.bi.bi-pen {
+    padding-right: 10px;
+}
